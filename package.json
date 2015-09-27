@@ -5,6 +5,7 @@
   "description": "Soundcloud client by Electron",
   "main": "main.js",
   "script": {
+    "release": "npm run zip && npm run clean && npm run upload",
     "setup": "npm install && brew tap tcnksm/ghr && brew install ghr",
     "start": "electron ."
   },
