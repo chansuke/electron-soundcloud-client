@@ -5,7 +5,6 @@
   "description": "Soundcloud client by Electron",
   "main": "main.js",
   "script": {
-    "package": "electron-packager . electron-soundcloud-client  --arch=x64 --out=packages/v0.0.1 --platform=darwin,win32 --version=0.31.0",
     "setup": "npm install && brew tap tcnksm/ghr && brew install ghr",
     "start": "electron ."
   },
@@ -14,6 +13,6 @@
   "license": "MIT",
   "devDependencies": {
     "electron-packager": "^5.1.0",
-    "electron-prebuilt": "^0.31.0"
+    "electron-prebuilt": "^0.31.2"
   }
 }
