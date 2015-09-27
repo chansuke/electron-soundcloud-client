@@ -1,0 +1,8 @@
+{
+  "name": "electron-soundcloud-client",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Yusuke Abe <moonset20@gmail.com> (https://github.com/chansuke)",
+  "license": "MIT",
+}
