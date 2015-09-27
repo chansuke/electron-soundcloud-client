@@ -1,11 +1,13 @@
 {
   "name": "electron-soundcloud-client",
+  "private": true,
   "version": "0.0.1",
   "description": "Soundcloud client by Electron",
   "main": "main.js",
   "script": {
     "start": "electron ."
   },
+  "repository": "chansuke/electron-soundcloud-client",
   "author": "Yusuke Abe <moonset20@gmail.com> (https://github.com/chansuke)",
   "license": "MIT",
   "devDependencies": {
