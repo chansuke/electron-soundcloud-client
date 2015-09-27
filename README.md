@@ -1,1 +1,8 @@
-# electron-soundcloud-client
+#electron-soundcloud-client
+
+## npm run start
+
+```
+$ npm run application
+
+```
