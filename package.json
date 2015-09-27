@@ -7,5 +7,8 @@
     "start": "electron ."
   },
   "author": "Yusuke Abe <moonset20@gmail.com> (https://github.com/chansuke)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.31.0"
+  }
 }
