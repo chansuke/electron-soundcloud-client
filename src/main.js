@@ -18,3 +18,7 @@ app.on('ready', function () {
     mainWindow = null;
   });
 });
+
+process.on('error', function(err) {
+  console.log(err);
+});
